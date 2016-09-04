@@ -1,4 +1,4 @@
-Project Title: Browser extension to compare products on shopping websites
+Browser extension to compare products on shopping websites
 This work was done as a part of CS412 project by:
 1. Dhruv Gelda
 2. Tarun Giri 
